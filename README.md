@@ -1,5 +1,5 @@
 <div align="center">
-<code>user@github: ~/profile $ ./display_stats.sh</code>
+<code>Ishaan Chopra </code>
 <br><br>
 <table>
 <tr>

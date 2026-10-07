@@ -30,13 +30,6 @@
 <br>
 <code>💻 Hardware: MSI Katana 15 (RTX 4000 Series)</code>
 
-<br><br>
-<!-- Dynamic Activity Line Graph -->
-<code>> ./commit_activity.sh</code>
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanChopra02&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br><br>
 <!-- Genuine Projects Directory -->
 <code>> tree ./Latest_Projects/</code>
 <br><br>

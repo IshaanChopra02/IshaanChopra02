@@ -28,7 +28,7 @@
 <br>
 <code>🚀 Latest Milestone: Competed in the CODE FLUX 36-Hour Hackathon</code>
 <br>
-<code>🎵 Coding Playlist: AP Dhillon, Ash King</code>
+
 
 <br><br>
 <!-- Genuine Projects Directory -->

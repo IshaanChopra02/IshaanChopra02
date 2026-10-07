@@ -59,6 +59,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
 <br><br>
+<!-- Auto-Play Snake Game -->
+<code>[ SYSTEM_ACTIVITY // COMMIT_SNAKE ]</code>
+<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaanChopra02/IshaanChopra02/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaanChopra02/IshaanChopra02/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IshaanChopra02/IshaanChopra02/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br><br>
 <!-- Private Comment Section -->
 <code>[ SECRET_COMMENTS // DROP_A_MESSAGE ]</code>
 <br><br>

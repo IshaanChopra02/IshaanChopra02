@@ -59,15 +59,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
 <br><br>
-<!-- Interactive Guestbook Section -->
-<code>[ GUEST_LOGS // VISITOR_COMMENTS ]</code>
+<!-- Private Comment Section -->
+<code>[ SECRET_COMMENTS // DROP_A_MESSAGE ]</code>
 <br><br>
-<a href="https://github.com/IshaanChopra02/IshaanChopra02/issues/new?title=Guestbook%20Entry:%20&body=Write%20your%20message%20here!">
-<img src="https://img.shields.io/badge/Sign_My_Guestbook-F52271?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook" />
+<a href="https://forms.gle/MFnHivpE9C7GeRRj7">
+<img src="https://img.shields.io/badge/Drop_a_Secret_Comment-000000?style=for-the-badge&logo=minutemailer&logoColor=white&color=F52271" alt="Private Message" />
 </a>
-<br><br>
-<!-- BEGIN GUESTBOOK -->
-<!-- END GUESTBOOK -->
 
 <br><br>
 <!-- High-Impact Contact Section -->

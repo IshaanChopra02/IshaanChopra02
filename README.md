@@ -6,10 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Data+Science+Undergrad;Building+Web+Apps+%26+Data+Tools;Python,+SQL,+and+C+Developer" alt="Typing SVG" />
 <br><br>
 
+<!-- Side-by-side Profile Art and Stats -->
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="file.svg" alt="ASCII Avatar" width="100%" />
+<img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=IshaanChopra02&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -20,6 +21,14 @@
 </table>
 
 <br>
+<!-- GitHub Achievements Trophies -->
+<code>GitHub Achievements</code>
+<br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=IshaanChopra02&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
+</a>
+
+<br><br>
 <!-- Tech Stack Badges -->
 <code>Tech Stack</code>
 <br><br>
@@ -44,4 +53,8 @@
 <a href="https://youtube.com/@sparkleee">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+
+<br><br>
+<!-- Retro Visitor Counter -->
+<img src="https://profile-counter.glitch.me/IshaanChopra02/search.svg" alt="Visitor Count" />
 </div>

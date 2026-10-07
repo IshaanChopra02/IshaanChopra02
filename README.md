@@ -3,7 +3,7 @@
 <br><br>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Data+Science+Undergrad;Building+Web+Apps+%26+Data+Tools;Python,+SQL,+and+C+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=BCA+Data+Science+Undergrad;Building+Web+Apps+%26+Data+Tools;Python,+SQL,+and+C+Developer" alt="Typing SVG" />
 <br><br>
 
 <!-- Side-by-side Profile Art and Stats -->
@@ -21,20 +21,26 @@
 </table>
 
 <br>
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanChopra02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Genuine Developer Bio -->
+<code>> ./whoami.sh</code>
+<br><br>
+<code>🎓 Education: BCA Data Science @ Lovely Professional University (Class of '29)</code>
+<br>
+<code>🚀 Latest Milestone: Competed in the CODE FLUX 36-Hour Hackathon</code>
+<br>
+<code>🎵 Coding Playlist: AP Dhillon, Ash King</code>
 
 <br><br>
-<!-- GitHub Achievements Trophies -->
-<code>GitHub Achievements</code>
+<!-- Genuine Projects Directory -->
+<code>> tree ./Latest_Projects/</code>
 <br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=IshaanChopra02&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
-</a>
+<code>├── 📊 Student-Performance-Analyzer (Streamlit, Python, MySQL)</code>
+<br>
+<code>└── 🗺️ LPU-Copilot (Campus Guide Web App)</code>
 
 <br><br>
 <!-- Tech Stack Badges -->
-<code>Tech Stack</code>
+<code>> cat skills.txt</code>
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -45,18 +51,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
 <br><br>
-<!-- Personal System Status -->
-<code>> ./system_status.sh</code>
-<br><br>
-<code>⚙️ Active Builds: Student Performance Analyzer | LPU Copilot</code>
-<br>
-<code>🎮 Offline Status: Grinding Black Myth: Wukong & Valorant</code>
-<br>
-<code>💻 Hardware Specs: MSI Katana 15 (RTX 4000 Series)</code>
-
-<br><br>
 <!-- Contact Me Section -->
-<code>Contact Me</code>
+<code>> ./connect.sh</code>
 <br><br>
 <a href="mailto:ishaanchopra17@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

@@ -25,12 +25,21 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="Divider" width="100%" />
 <br><br>
 
+<!-- Interactive Refreshing Hacker Quote -->
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</a>
+<br><br>
+
 <!-- The Command Center (Custom Lifestyle Badges) -->
 <code>[ SYSTEM OVERRIDE // CURRENT STATUS ]</code>
 <br><br>
 <img src="https://img.shields.io/badge/Building-Student_Performance_Analyzer-F52271?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Hackathon-CODE_FLUX_Veteran-4353FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-
+<br>
+<img src="https://img.shields.io/badge/Playing-Valorant_&_Wukong-FF4655?style=for-the-badge&logo=riotgames&logoColor=white" />
+<img src="https://img.shields.io/badge/Listening-AP_Dhillon_&_Ash_King-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Hardware-MSI_Katana_15_RTX_4000-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 
 <br><br>
@@ -38,7 +47,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="Divider" width="100%" />
 <br><br>
 
-<br><br>
 <!-- Tech Stack Badges -->
 <code>[ WEAPONS OF CHOICE ]</code>
 <br><br>
@@ -49,3 +57,25 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+<br><br>
+<!-- Interactive Guestbook Section -->
+<code>[ GUEST_LOGS // VISITOR_COMMENTS ]</code>
+<br><br>
+<a href="https://github.com/IshaanChopra02/IshaanChopra02/issues/new?title=Guestbook%20Entry:%20&body=Write%20your%20message%20here!">
+<img src="https://img.shields.io/badge/Sign_My_Guestbook-F52271?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook" />
+</a>
+<br><br>
+<!-- BEGIN GUESTBOOK -->
+<!-- END GUESTBOOK -->
+
+<br><br>
+<!-- High-Impact Contact Section -->
+<a href="https://youtube.com/@sparkleee">
+<img src="https://img.shields.io/badge/Subscribe-@sparkleee-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=large" alt="YouTube" />
+</a>
+<a href="mailto:ishaanchopra17@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>

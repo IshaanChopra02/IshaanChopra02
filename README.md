@@ -30,10 +30,7 @@
 <br><br>
 <img src="https://img.shields.io/badge/Building-Student_Performance_Analyzer-F52271?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Hackathon-CODE_FLUX_Veteran-4353FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Playing-Valorant_&_Wukong-FF4655?style=for-the-badge&logo=riotgames&logoColor=white" />
-<img src="https://img.shields.io/badge/Listening-AP_Dhillon_&_Ash_King-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-<br>
+
 <img src="https://img.shields.io/badge/Hardware-MSI_Katana_15_RTX_4000-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 
 <br><br>

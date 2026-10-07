@@ -21,6 +21,10 @@
 </table>
 
 <br>
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanChopra02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
 <!-- GitHub Achievements Trophies -->
 <code>GitHub Achievements</code>
 <br><br>
@@ -41,6 +45,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
 <br><br>
+<!-- Personal System Status -->
+<code>> ./system_status.sh</code>
+<br><br>
+<code>⚙️ Active Builds: Student Performance Analyzer | LPU Copilot</code>
+<br>
+<code>🎮 Offline Status: Grinding Black Myth: Wukong & Valorant</code>
+<br>
+<code>💻 Hardware Specs: MSI Katana 15 (RTX 4000 Series)</code>
+
+<br><br>
 <!-- Contact Me Section -->
 <code>Contact Me</code>
 <br><br>
@@ -53,8 +67,4 @@
 <a href="https://youtube.com/@sparkleee">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-
-<br><br>
-<!-- Retro Visitor Counter -->
-<img src="https://profile-counter.glitch.me/IshaanChopra02/search.svg" alt="Visitor Count" />
 </div>

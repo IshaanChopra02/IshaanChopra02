@@ -38,8 +38,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="Divider" width="100%" />
 <br><br>
 
-<!-- Tech Stack Badges -->
-<code>[ WEAPONS OF CHOICE ]</code>
 <br><br>
 <!-- Tech Stack Badges -->
 <code>[ WEAPONS OF CHOICE ]</code>

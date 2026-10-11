@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Hackathon-CODE_FLUX_Veteran-4353FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 <br>
 <br>
-<img src="https://img.shields.io/badge/Hardware-MSI_Katana_15_RTX_4000-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/Hardware-MSI_Katana_15_RTX_3050-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 
 <br><br>
 

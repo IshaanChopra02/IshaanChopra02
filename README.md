@@ -4,7 +4,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F52271&center=true&vCenter=true&width=500&lines=Building+LPU+Copilot;Training+Data+Models;Grinding+Black+Myth:+Wukong;Editing+on+Vegas+Pro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F52271&center=true&vCenter=true&width=500&lines=Building+LPU+Copilot;Training+Data+Models;New+To+Most+Of+Things;Still+Trying;Editing+on+Vegas+Pro" alt="Typing SVG" />
 <br><br>
 
 

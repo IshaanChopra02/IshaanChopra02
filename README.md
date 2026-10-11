@@ -70,7 +70,7 @@
 
 <code>[ SECRET_COMMENTS // DROP_A_MESSAGE ]</code>
 <br><br>
-<a href="https://forms.gle/MFnHivpE9C7GeRRj7">
+<a href="https://forms.gle/EwddYr8qrG9fGnKy8">
 <img src="https://img.shields.io/badge/Drop_a_Secret_Comment-000000?style=for-the-badge&logo=minutemailer&logoColor=white&color=F52271" alt="Private Message" />
 </a>
 

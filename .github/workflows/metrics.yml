@@ -1,0 +1,30 @@
+name: GitHub Metrics
+on:
+  # Runs automatically at midnight every day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to manually trigger it from the Actions tab
+  workflow_dispatch:
+  # Runs whenever you push to the main branch
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Automatically uses the built-in GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # General Stats
+          base: header, activity, community, repositories, metadata
+          config_theme: radical
+          
+          # Top Languages Plugin
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage

@@ -1,4 +1,4 @@
-name: Creative GitHub Metrics
+name: Vibrant GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -12,32 +12,37 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Creative Metrics
+      - name: Generate Colorful Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Base Theme: A sleek, neon dark mode
-          config_theme: tokyonight
-          base: header, metadata
+          # Vibrant Dark Theme
+          config_theme: dracula
+          base: header, activity, repositories
           
-          # Feature 1: 3D Isometric Calendar (Replaces the standard flat grid)
+          # Feature 1: Colorful 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Feature 2: RPG-Style Achievements (Unlocks badges based on your repos/commits)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
-          # Feature 3: Coding Habits (Visualizes your most active times and days)
+          # Feature 2: Coding Habits Bar Charts (Shows when you code the most)
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_days: 14
           
-          # Feature 4: Top Languages
+          # Feature 3: Language Progress Bars/Charts
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # Feature 4: Lines of Code graph (Additions/Deletions)
+          plugin_lines: yes

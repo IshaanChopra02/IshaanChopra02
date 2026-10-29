@@ -11,10 +11,10 @@
 <img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
 </td>
 <td align="center" width="50%">
-<!-- Escaped ampersands (&amp;) to prevent HTML sanitization errors -->
-<img src="https://github-readme-stats.vercel.app/api?username=IshaanChopra02&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" />
+<!-- Update the two URLs below with your new Vercel domain -->
+<img src="https://YOUR-VERCEL-DOMAIN-HERE/api?username=IshaanChopra02&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanChopra02&amp;theme=radical&amp;hide_border=true&amp;layout=compact" alt="Top Languages" />
+<img src="https://YOUR-VERCEL-DOMAIN-HERE/api/top-langs/?username=IshaanChopra02&amp;theme=radical&amp;hide_border=true&amp;layout=compact" alt="Top Languages" />
 </td>
 </tr>
 </table>

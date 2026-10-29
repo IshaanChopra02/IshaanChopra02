@@ -1,11 +1,8 @@
-name: GitHub Metrics
+name: Creative GitHub Metrics
 on:
-  # Runs automatically at midnight every day
   schedule:
     - cron: "0 0 * * *"
-  # Allows you to manually trigger it from the Actions tab
   workflow_dispatch:
-  # Runs whenever you push to the main branch
   push:
     branches: ["main", "master"]
 
@@ -15,16 +12,32 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate Creative Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Automatically uses the built-in GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # General Stats
-          base: header, activity, community, repositories, metadata
-          config_theme: radical
+          # Base Theme: A sleek, neon dark mode
+          config_theme: tokyonight
+          base: header, metadata
           
-          # Top Languages Plugin
+          # Feature 1: 3D Isometric Calendar (Replaces the standard flat grid)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Feature 2: RPG-Style Achievements (Unlocks badges based on your repos/commits)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          
+          # Feature 3: Coding Habits (Visualizes your most active times and days)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # Feature 4: Top Languages
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage

@@ -5,17 +5,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F52271&center=true&vCenter=true&width=500&lines=Building+LPU+Copilot;Building+StockSense;Training+Data+Models;Creating+on+Sparklee;Editing+on+Vegas+Pro" alt="Typing SVG" />
 <br><br>
 
+<!-- TOP DASHBOARD: ASCII Avatar + Live Animated Stats & Streak Charts -->
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
+<td align="center" width="45%">
+  <img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
 </td>
-<td align="center" width="50%">
-<!-- Locally generated metrics image from the GitHub Action -->
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<td align="center" width="55%">
+  <!-- Animated Fire Streak Counter -->
+  <img src="https://streak-stats.demolab.com?user=IshaanChopra02&theme=radical&hide_border=true&background=0D1117&ring=F52271&fire=00F7FF&currStreakLabel=F52271" width="100%" alt="GitHub Streak" />
+  <br>
+  <!-- Live Colorful Languages Progress Bar -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanChopra02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F52271&langs_count=8" width="100%" alt="Top Languages" />
 </td>
 </tr>
 </table>
+
+<!-- LIVE INTERACTIVE COMMIT ACTIVITY GRAPH -->
+<code>[ LIVE_TELEMETRY // REALTIME_COMMIT_GRAPH ]</code>
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanChopra02&bg_color=0D1117&color=F52271&line=00F7FF&point=FFFFFF&area=true&area_color=F52271&hide_border=true&custom_title=Ishaan's%20Realtime%20Contribution%20Pulse" width="100%" alt="Activity Graph" />
+<br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="Divider" width="100%" />
 <br><br>
@@ -38,6 +48,8 @@
 <br><br>
 
 <code>[ WEAPONS OF CHOICE ]</code>
+<br><br>
+<img src="https://skillicons.dev/icons?i=py,mysql,c,js,html,css,git,github,vscode&theme=dark&perline=9" alt="Skill Icons" />
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />

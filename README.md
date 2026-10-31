@@ -5,45 +5,46 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F52271&center=true&vCenter=true&width=500&lines=Building+LPU+Copilot;Building+StockSense;Training+Data+Models;Creating+on+Sparklee;Editing+on+Vegas+Pro" alt="Typing SVG" />
 <br><br>
 
-<!-- TOP DASHBOARD: ASCII Avatar + Stars, Commits, Contributed, Streaks -->
+<!-- TOP DASHBOARD: ASCII Avatar + Clean Stats & Languages -->
 <table>
 <tr>
 <td align="center" width="45%">
   <img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
 </td>
 <td align="center" width="55%">
-  <!-- Stars, Commits, PRs, Issues & Contributed To Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshaanChopra02&theme=radical" width="100%" alt="GitHub Stats" />
+  <!-- Live Commit Streak (Longest Streak Hidden) -->
+  <img src="https://streak-stats.demolab.com?user=IshaanChopra02&theme=radical&hide_border=true&background=0D1117&ring=F52271&fire=00F7FF&currStreakLabel=F52271&hide_longest_streak=true" width="100%" alt="GitHub Streak" />
   <br>
-  <!-- Live Commit Streaks Card -->
-  <img src="https://streak-stats.demolab.com?user=IshaanChopra02&theme=radical&hide_border=true&background=0D1117&ring=F52271&fire=00F7FF&currStreakLabel=F52271" width="100%" alt="GitHub Streak" />
+  <!-- GitHub Stats with Custom Header Title -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaanChopra02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F52271&icon_color=00F7FF&include_all_commits=true&count_private=true&custom_title=IshaanChopra02" width="49%" alt="GitHub Stats" />
+  <!-- Colorful Top Languages Donut Chart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshaanChopra02&theme=radical" width="49%" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<!-- COLORFUL DONUT CHARTS & COMMIT ACTIVITY WAVE -->
+<!-- THREE COLUMN METRICS ROW -->
 <code>[ LIVE_METRICS // LANGUAGES_&_CONTRIBUTIONS ]</code>
 <br><br>
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <!-- Colorful Language Donut Chart (By Repo) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshaanChopra02&theme=radical" width="100%" alt="Top Languages by Repo" />
 </td>
 <td align="center" width="33%">
-  <!-- Colorful Language Donut Chart (By Commits) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshaanChopra02&theme=radical" width="100%" alt="Languages by Commit" />
 </td>
 <td align="center" width="33%">
-  <!-- Commit Activity by Time Chart -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshaanChopra02&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time" />
 </td>
 </tr>
 </table>
 
-<!-- FULL WIDTH PROFILE SUMMARY + CONTRIBUTION GRAPH -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshaanChopra02&theme=radical" width="100%" alt="Profile Details and Contribution Graph" />
+<!-- FULL WIDTH REALTIME COMMIT ACTIVITY GRAPH -->
+<code>[ LIVE_TELEMETRY // REALTIME_COMMIT_GRAPH ]</code>
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanChopra02&bg_color=0D1117&color=F52271&line=00F7FF&point=FFFFFF&area=true&area_color=F52271&hide_border=true&custom_title=Ishaan's%20Realtime%20Contribution%20Pulse" width="100%" alt="Activity Graph" />
 <br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="Divider" width="100%" />

@@ -5,13 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F52271&center=true&vCenter=true&width=500&lines=Building+LPU+Copilot;Building+StockSense;Training+Data+Models;Creating+on+Sparklee;Editing+on+Vegas+Pro" alt="Typing SVG" />
 <br><br>
 
-<!-- TOP DASHBOARD: ASCII Avatar + Streak (No Longest Streak) & Core Stats -->
-<table>
-<tr>
-<td align="center" width="45%">
-  <img src="profile-art.svg" alt="ASCII Avatar" width="100%" />
-</td>
-<td align="center" width="55%">
   <!-- Live Commit Streak (Longest Streak Hidden) -->
   <img src="https://streak-stats.demolab.com?user=IshaanChopra02&theme=radical&hide_border=true&background=0D1117&ring=F52271&fire=00F7FF&currStreakLabel=F52271&hide_longest_streak=true" width="100%" alt="GitHub Streak" />
   <br><br>
